@@ -34,5 +34,3 @@ The project focuses on removing noise from images while preserving important det
   - Training vs validation loss curves.  
 
 ---
-
-## 📂 Repository Structure
